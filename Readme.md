@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Miracle Shaibu</h2>
-<h3 align="center">Software Developer proficient in Java | Elixir | Go | Python</h3>
+<h3 align="center">Software Developer proficient in Java | Elixir | Go | Javascript | Python</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uracles&label=Profile%20views&color=0e75b6&style=flat" alt="uracles" /> </p>
