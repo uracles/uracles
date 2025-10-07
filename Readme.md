@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Miracle Shaibu</h2>
-<h3 align="center">Software Developer proficient in Java | Elixir</h3>
+<h3 align="center">Software Developer proficient in Java | Elixir | Go | Python</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uracles&label=Profile%20views&color=0e75b6&style=flat" alt="uracles" /> </p>
@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/uracles?tab=repositories](https://github.com/uracles?tab=repositories)
   
-- 💬 Ask me about **Java and Software Best Practices**
+- 💬 Ask me about **Best Software Best Practices in Banking & Enterprise Systems**
 
-- 📫 How to reach me mail: **shaibumiracle7@gmail.com**
+- 📫 How to reach me mail: **mshaibu.tech@gmail.com**
                      LinkedIn: **https://www.linkedin.com/in/uracles**
 
 
