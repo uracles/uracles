@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/uracles?tab=repositories](https://github.com/uracles?tab=repositories)
   
-- 💬 Ask me about **Best Software Practices in Banking & Enterprise Systems**
+- 💬 Ask me about **Best Software & DevOps Practices in Banking & Enterprise Systems**
 
 - 📫 How to reach me mail: **mshaibu.tech@gmail.com**
                      LinkedIn: **https://www.linkedin.com/in/uracles**
